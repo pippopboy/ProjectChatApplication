@@ -1,0 +1,610 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/d:Service References/d:ChatServer/f:Reference.cs" caret="21199" fromTop="12" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:MessageAddFriendForm.cs" caret="829" fromTop="26" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Register.Designer.cs" caret="663" fromTop="20" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Register.cs" caret="1270" fromTop="26" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.Designer.cs" caret="330" fromTop="13" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Program.cs" caret="322" fromTop="14" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:app.config" caret="257" fromTop="6" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="10803" fromTop="2" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="9001" fromTop="19" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="15276" fromTop="0" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="1514" fromTop="24" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="12192" fromTop="18" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="15896" fromTop="22" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="15894" fromTop="24" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="15894" fromTop="28" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="15894" fromTop="12" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="9290" fromTop="23" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="9022" fromTop="17" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="846" fromTop="0" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="3285" fromTop="26" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="15921" fromTop="8" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="1627" fromTop="21" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="8416" fromTop="15" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="8689" fromTop="10" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="14133" fromTop="8" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="14574" fromTop="20" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="1010" fromTop="15" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="15894" fromTop="11" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="2826" fromTop="15" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="6268" fromTop="10" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="6160" fromTop="0" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:app.config" caret="257" fromTop="6" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="1742" fromTop="9" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="10803" fromTop="20" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="2045" fromTop="18" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="11096" fromTop="24" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="1875" fromTop="12" />
+      <File id="54EB1C59-F3EA-4E49-9C98-7EBE91DDDA2A/f:Form1.cs" caret="2268" fromTop="23" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="ChatServer" priority="7" />
+      <Item value="proxy" priority="37" />
+      <Item value="groudLogin" priority="0" />
+      <Item value="groupInfor" priority="0" />
+      <Item value="true" priority="6" />
+      <Item value="txtusername" priority="20" />
+      <Item value="txtAddFriend" priority="11" />
+      <Item value="try" priority="5" />
+      <Item value="MessageBox`0" priority="21" />
+      <Item value="label3" priority="0" />
+      <Item value="IChatCallback`0" priority="7" />
+      <Item value="if" priority="32" />
+      <Item value="lbfriend" priority="7" />
+      <Item value="Label`0" priority="0" />
+      <Item value="PictureBox`0" priority="0" />
+      <Item value="new" priority="37" />
+      <Item value="PictureBox" priority="0" />
+      <Item value="pb1" priority="1" />
+      <Item value="ImageListStreamer`0" priority="1" />
+      <Item value="null" priority="4" />
+      <Item value="OpenFileDialog`0" priority="3" />
+      <Item value="fileDialog" priority="7" />
+      <Item value="OpenFileDialog" priority="3" />
+      <Item value="false" priority="1" />
+      <Item value="DialogResult" priority="10" />
+      <Item value="DialogResult`0" priority="3" />
+      <Item value="return" priority="1" />
+      <Item value="strm" priority="9" />
+      <Item value="byte" priority="6" />
+      <Item value="int" priority="18" />
+      <Item value="buffer" priority="4" />
+      <Item value="Length" priority="2" />
+      <Item value="i" priority="1" />
+      <Item value="ChatMessage`0" priority="0" />
+      <Item value="ChatMessage" priority="0" />
+      <Item value="CM" priority="15" />
+      <Item value="e" priority="8" />
+      <Item value="DateBoldEventArgs`0" priority="0" />
+      <Item value="DateTime`0" priority="10" />
+      <Item value="RTBPrivate" priority="13" />
+      <Item value="string" priority="31" />
+      <Item value="ToUser" priority="2" />
+      <Item value="cbChatMat" priority="1" />
+      <Item value="else" priority="5" />
+      <Item value="RTBRoom" priority="18" />
+      <Item value="start" priority="7" />
+      <Item value="end" priority="1" />
+      <Item value="BackColor" priority="0" />
+      <Item value="ColorDialog`0" priority="1" />
+      <Item value="ForeColor" priority="0" />
+      <Item value="void" priority="11" />
+      <Item value="RichTextBox`0" priority="0" />
+      <Item value="color" priority="2" />
+      <Item value="box" priority="9" />
+      <Item value="text" priority="1" />
+      <Item value="AppendText`0" priority="9" />
+      <Item value="Color`0" priority="9" />
+      <Item value="Send`0" priority="2" />
+      <Item value="RTBText" priority="19" />
+      <Item value="Keys`0" priority="3" />
+      <Item value="sender" priority="1" />
+      <Item value="List" priority="0" />
+      <Item value="User`0" priority="7" />
+      <Item value="list" priority="1" />
+      <Item value="for" priority="0" />
+      <Item value="user" priority="13" />
+      <Item value="useronline" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="online" priority="1" />
+      <Item value="KeyPress" priority="0" />
+      <Item value="Enter" priority="1" />
+      <Item value="ModifierKeys" priority="0" />
+      <Item value="exp" priority="3" />
+      <Item value="CommunicationState`0" priority="2" />
+      <Item value="using" priority="3" />
+      <Item value="System" priority="6" />
+      <Item value="ServiceModel" priority="0" />
+      <Item value="ct" priority="0" />
+      <Item value="ChatClient`0" priority="9" />
+      <Item value="this" priority="8" />
+      <Item value="IChat`0" priority="5" />
+      <Item value="ChatClient" priority="3" />
+      <Item value="WS2007FederationHttpBinding`0" priority="0" />
+      <Item value="WSDualHttpBinding" priority="0" />
+      <Item value="ws" priority="4" />
+      <Item value="address" priority="3" />
+      <Item value="ic" priority="1" />
+      <Item value="InstanceContext`0" priority="0" />
+      <Item value="InstanceContext" priority="1" />
+      <Item value="object" priority="1" />
+      <Item value="OperationContext`0" priority="2" />
+      <Item value="public" priority="8" />
+      <Item value="class" priority="0" />
+      <Item value="openFileDialog" priority="23" />
+      <Item value="result" priority="3" />
+      <Item value="Registercs`0" priority="0" />
+      <Item value="Register`0" priority="1" />
+      <Item value="SaveFileDialog`0" priority="0" />
+      <Item value="saveFileDialog" priority="5" />
+      <Item value="SaveFileDialog" priority="0" />
+      <Item value="OK" priority="2" />
+      <Item value="FileStream" priority="1" />
+      <Item value="Append" priority="0" />
+      <Item value="StreamWriter`0" priority="0" />
+      <Item value="writer" priority="2" />
+      <Item value="StreamWriter" priority="0" />
+      <Item value="FileInfo`0" priority="0" />
+      <Item value="FileInfo" priority="0" />
+      <Item value="fileName" priority="0" />
+      <Item value="fi" priority="0" />
+      <Item value="Path`0" priority="3" />
+      <Item value="AppDomain`0" priority="0" />
+      <Item value="Application`0" priority="2" />
+      <Item value="File`0" priority="2" />
+      <Item value="pictureBox1" priority="2" />
+      <Item value="Image`0" priority="9" />
+      <Item value="newpath" priority="3" />
+      <Item value="fixed" priority="0" />
+      <Item value="FaultException" priority="0" />
+      <Item value="message" priority="10" />
+      <Item value="traFaultException" priority="0" />
+      <Item value="TrackedFault`0" priority="1" />
+      <Item value="LinkLabel`0" priority="1" />
+      <Item value="label" priority="5" />
+      <Item value="LinkLabel" priority="0" />
+      <Item value="ex" priority="5" />
+      <Item value="Form1`0" priority="6" />
+      <Item value="trackedFault" priority="0" />
+      <Item value="MessageBoxButtons`0" priority="1" />
+      <Item value="private" priority="2" />
+      <Item value="Username" priority="1" />
+      <Item value="username" priority="8" />
+      <Item value="dialogResult" priority="2" />
+      <Item value="Friend" priority="9" />
+      <Item value="MessageAddFriend" priority="4" />
+      <Item value="MessageAddFriendForm`0" priority="2" />
+      <Item value="Message`0" priority="0" />
+      <Item value="static" priority="6" />
+      <Item value="messageAddFriendForm" priority="3" />
+      <Item value="MessageAddFriendForm" priority="0" />
+      <Item value="label1" priority="0" />
+      <Item value="delegate" priority="0" />
+      <Item value="richTextBox1" priority="0" />
+      <Item value="check" priority="0" />
+      <Item value="MessageBodyMemberAttribute`0" priority="0" />
+      <Item value="HttpProxyCredentialType`0" priority="0" />
+      <Item value="addFriend`0" priority="2" />
+      <Item value="Diagnostics" priority="0" />
+      <Item value="Process`0" priority="0" />
+      <Item value="_rcvFilePath" priority="2" />
+      <Item value="FileMessage`0" priority="1" />
+      <Item value="fileMessage" priority="15" />
+      <Item value="FileMessage" priority="0" />
+      <Item value="_toUser" priority="1" />
+      <Item value="finally" priority="0" />
+      <Item value="FileStream`0" priority="0" />
+      <Item value="fileStream" priority="1" />
+      <Item value="FileMode`0" priority="0" />
+      <Item value="FileAccess`0" priority="0" />
+      <Item value="Exception`0" priority="1" />
+      <Item value="MemoryStream`0" priority="0" />
+      <Item value="long" priority="3" />
+      <Item value="MaxReceivedMessageSize" priority="0" />
+      <Item value="MaxBufferPoolSize" priority="0" />
+      <Item value="saveFileDialog1" priority="3" />
+      <Item value="messageContent" priority="0" />
+      <Item value="Text" priority="0" />
+      <Item value="Font" priority="2" />
+      <Item value="Italic" priority="0" />
+      <Item value="name" priority="0" />
+      <Item value="Clipboard`0" priority="1" />
+      <Item value="img" priority="10" />
+      <Item value="DataFormats`0" priority="2" />
+      <Item value="df" priority="0" />
+      <Item value="Size" priority="3" />
+      <Item value="size" priority="5" />
+      <Item value="resizeImage`0" priority="2" />
+      <Item value="_fileDialog" priority="4" />
+      <Item value="avarta" priority="1" />
+      <Item value="register" priority="1" />
+      <Item value="Register" priority="0" />
+      <Item value="MemoryStream" priority="0" />
+      <Item value="imageIn" priority="0" />
+      <Item value="ms" priority="1" />
+      <Item value="Drawing" priority="0" />
+      <Item value="Imaging" priority="0" />
+      <Item value="ImageFormat`0" priority="0" />
+      <Item value="ImageToByteArray`0" priority="0" />
+      <Item value="BinaryReader`0" priority="3" />
+      <Item value="Binary" priority="4" />
+      <Item value="file_byte" priority="3" />
+      <Item value="Data" priority="3" />
+      <Item value="Linq" priority="0" />
+      <Item value="txtpassword" priority="0" />
+      <Item value="file_binary" priority="2" />
+      <Item value="Binary`0" priority="2" />
+      <Item value="file_binaryServer" priority="1" />
+      <Item value="exception" priority="1" />
+      <Item value="WSDualHttpBinding`0" priority="1" />
+      <Item value="user`0" priority="6" />
+      <Item value="UserClient" priority="18" />
+      <Item value="ByteArrayToImage`0" priority="1" />
+      <Item value="ptAvarta" priority="0" />
+      <Item value="Height" priority="0" />
+      <Item value="Width" priority="0" />
+      <Item value="memStream" priority="0" />
+      <Item value="BinaryToImage`0" priority="2" />
+      <Item value="ChatUsers" priority="12" />
+      <Item value="Sender" priority="0" />
+      <Item value="ThreadExceptionDialog`0" priority="0" />
+      <Item value="throw" priority="0" />
+      <Item value="DataGridViewDataErrorContexts`0" priority="0" />
+      <Item value="double" priority="0" />
+      <Item value="total" priority="0" />
+      <Item value="xuat`0" priority="0" />
+      <Item value="lock" priority="0" />
+      <Item value="time" priority="0" />
+      <Item value="timer1_Tick`0" priority="0" />
+      <Item value="timer1" priority="4" />
+      <Item value="time2" priority="3" />
+      <Item value="time1" priority="7" />
+      <Item value="Random`0" priority="2" />
+      <Item value="Random" priority="1" />
+      <Item value="rand" priority="2" />
+      <Item value="rd" priority="1" />
+      <Item value="bonus" priority="2" />
+      <Item value="Margin" priority="0" />
+      <Item value="Padding" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChattingClient.ChatServer.IChat">
+      <Item value="AddFriend`0" priority="1" />
+      <Item value="CheckOnline`0" priority="0" />
+      <Item value="SendPublicMessage`0" priority="1" />
+      <Item value="SendPrivateMessage`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.GroupBox">
+      <Item value="Enabled" priority="0" />
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="37" />
+      <Item value="AutoScrollOffset" priority="0" />
+      <Item value="AcceptsReturn" priority="1" />
+      <Item value="WordWrap" priority="0" />
+      <Item value="ScrollBars" priority="0" />
+      <Item value="SelectionStart" priority="0" />
+      <Item value="ScrollToCaret`0" priority="0" />
+      <Item value="TextLength" priority="3" />
+      <Item value="ResetText`0" priority="0" />
+      <Item value="WindowTarget" priority="0" />
+      <Item value="Clear`0" priority="1" />
+      <Item value="Lines" priority="0" />
+      <Item value="SelectedText" priority="1" />
+      <Item value="Select`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="20" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Visible" priority="0" />
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox">
+      <Item value="Items" priority="5" />
+      <Item value="SelectedIndex" priority="0" />
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox+ObjectCollection">
+      <Item value="Add`0" priority="3" />
+      <Item value="Contains`0" priority="0" />
+      <Item value="Remove`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PictureBox">
+      <Item value="ImageLocation" priority="2" />
+      <Item value="Image" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.OpenFileDialog">
+      <Item value="Multiselect" priority="0" />
+      <Item value="ShowDialog`0" priority="8" />
+      <Item value="OpenFile`0" priority="1" />
+      <Item value="InitialDirectory" priority="1" />
+      <Item value="Filter" priority="1" />
+      <Item value="FileName" priority="11" />
+      <Item value="SafeFileName" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DialogResult">
+      <Item value="HasFlag`0" priority="0" />
+      <Item value="Yes" priority="0" />
+      <Item value="OK" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Length" priority="1" />
+      <Item value="Read`0" priority="1" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChattingClient.ChatServer.ChatMessage">
+      <Item value="Sender" priority="2" />
+      <Item value="Content" priority="8" />
+      <Item value="CurrentTime" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.RichTextBox">
+      <Item value="AppendText`0" priority="6" />
+      <Item value="TextLength" priority="8" />
+      <Item value="SelectionColor" priority="3" />
+      <Item value="Select`0" priority="1" />
+      <Item value="SelectionLength" priority="1" />
+      <Item value="Text" priority="2" />
+      <Item value="SelectionStart" priority="0" />
+      <Item value="ScrollToCaret`0" priority="0" />
+      <Item value="SelectionFont" priority="1" />
+      <Item value="CanPaste`0" priority="0" />
+      <Item value="Paste`0" priority="0" />
+      <Item value="Margin" priority="2" />
+      <Item value="Padding" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Checked" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Select`2" priority="1" />
+      <Item value="Length" priority="2" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="ToCharArray`0" priority="0" />
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Black" priority="1" />
+      <Item value="Blue" priority="6" />
+      <Item value="ForestGreen" priority="2" />
+      <Item value="Red" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.KeyEventArgs">
+      <Item value="KeyData" priority="1" />
+      <Item value="KeyCode" priority="2" />
+      <Item value="SuppressKeyPress" priority="0" />
+      <Item value="Shift" priority="0" />
+      <Item value="Handled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Keys">
+      <Item value="Enter" priority="2" />
+      <Item value="Shift" priority="1" />
+      <Item value="ShiftKey" priority="1" />
+      <Item value="LShiftKey" priority="0" />
+      <Item value="Control" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChattingClient.ChatServer.User">
+      <Item value="username" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="4" />
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ServiceModel.CommunicationState">
+      <Item value="Faulted" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ServiceModel.OperationContext">
+      <Item value="Current" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.OperationContext">
+      <Item value="Channel" priority="0" />
+      <Item value="GetCallbackChannel`1" priority="0" />
+      <Item value="Host" priority="2" />
+      <Item value="InstanceContext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.ServiceHostBase">
+      <Item value="State" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SaveFileDialog">
+      <Item value="FileName" priority="4" />
+      <Item value="ShowDialog`0" priority="1" />
+      <Item value="OpenFile`0" priority="0" />
+      <Item value="DefaultExt" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileMode">
+      <Item value="Create" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="Write`0" priority="1" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileInfo">
+      <Item value="CopyTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="Combine`0" priority="1" />
+      <Item value="GetFileName`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="StartupPath" priority="3" />
+      <Item value="UserAppDataPath" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Copy`0" priority="1" />
+      <Item value="Exists`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Image">
+      <Item value="FromFile`0" priority="3" />
+      <Item value="FromStream`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.FaultException">
+      <Item value="Message" priority="0" />
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.LinkLabel">
+      <Item value="Text" priority="2" />
+      <Item value="Click" priority="0" />
+      <Item value="LinkArea" priority="0" />
+      <Item value="LinkClicked" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.FaultException`1">
+      <Item value="Detail" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChattingClient.ChatServer.TrackedFault">
+      <Item value="TrackingId" priority="1" />
+      <Item value="Details" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Guid">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxButtons">
+      <Item value="OKCancel" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChattingClient.ChatServer.ChatClient">
+      <Item value="AddFriend`0" priority="0" />
+      <Item value="MessageAddFriend`0" priority="4" />
+      <Item value="SendMessageResult`0" priority="1" />
+      <Item value="Logout`0" priority="0" />
+      <Item value="CheckOnline`0" priority="0" />
+      <Item value="SendFile`0" priority="1" />
+      <Item value="SendFileCompleted" priority="2" />
+      <Item value="SendMessageBack`0" priority="0" />
+      <Item value="Register`0" priority="0" />
+      <Item value="GetInformationUser`0" priority="5" />
+      <Item value="GetAvartaByUsername`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChattingClient.MessageAddFriendForm">
+      <Item value="Show`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+      <Item value="Shown" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ChattingClient.Form1">
+      <Item value="MessageAddFriend" priority="0" />
+      <Item value="addFriend`0" priority="0" />
+      <Item value="proxy" priority="1" />
+      <Item value="Username" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChattingClient.Form1">
+      <Item value="Click" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Process">
+      <Item value="Start`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChattingClient.ChatServer.FileMessage">
+      <Item value="Sender" priority="2" />
+      <Item value="FileName" priority="5" />
+      <Item value="Data" priority="2" />
+      <Item value="Time" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileAccess">
+      <Item value="ReadWrite" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileStream">
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="MaxValue" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Font">
+      <Item value="Italic" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Clipboard">
+      <Item value="SetDataObject`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DataFormats">
+      <Item value="Format`0" priority="0" />
+      <Item value="GetFormat`0" priority="0" />
+      <Item value="Bitmap" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Image">
+      <Item value="Height" priority="1" />
+      <Item value="Width" priority="0" />
+      <Item value="PixelFormat" priority="0" />
+      <Item value="Size" priority="0" />
+      <Item value="Save`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Size">
+      <Item value="Height" priority="1" />
+      <Item value="Width" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChattingClient.Register">
+      <Item value="Show`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Imaging.ImageFormat">
+      <Item value="Gif" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.MemoryStream">
+      <Item value="ToArray`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChattingClient.ChatServer.user">
+      <Item value="avarta" priority="9" />
+      <Item value="username" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Linq.Binary">
+      <Item value="ToArray`0" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ChattingClient.Login">
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Minute" priority="0" />
+      <Item value="Second" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Timer">
+      <Item value="Enabled" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Padding">
+      <Item value="Left" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

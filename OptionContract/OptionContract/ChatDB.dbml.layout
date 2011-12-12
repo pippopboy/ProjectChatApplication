@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ChatDB">
+  <DataContextMoniker Name="/ChatDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="36284b1c-1d24-4f11-8b6b-70c9e789d43c" absoluteBounds="2, 3.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/ChatDBDataContext/Relation" />
+      <nestedChildShapes>
+        <elementListCompartment Id="35f1d1e1-4208-4dfa-8b95-e5a3087576a7" absoluteBounds="2.0149999999999997, 4.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d1e70401-5110-482d-8c4d-06689453386e" absoluteBounds="5.875, 2.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ChatDBDataContext/user" />
+      <nestedChildShapes>
+        <elementListCompartment Id="249b4747-905d-421a-8089-704c22bdacd4" absoluteBounds="5.89, 3.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.875 : 4.10179768880208); (4 : 4.10179768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ChatDBDataContext/user/user_Relation" />
+      <nodes>
+        <classShapeMoniker Id="d1e70401-5110-482d-8c4d-06689453386e" />
+        <classShapeMoniker Id="36284b1c-1d24-4f11-8b6b-70c9e789d43c" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

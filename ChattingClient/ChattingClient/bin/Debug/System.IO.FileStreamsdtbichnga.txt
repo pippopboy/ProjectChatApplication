@@ -1,0 +1,1 @@
+metadata=res://*/Models.OLiveModel.csdl|res://*/Models.OLiveModel.ssdl|res://*/Models.OLiveModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=TRONGNGHIA-PC\SQLEXPRESS;initial catalog=OLIVE;integrated security=True;multipleactiveresultsets=True;App=EntityFramework&quot;

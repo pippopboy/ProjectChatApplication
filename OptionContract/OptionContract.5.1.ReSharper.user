@@ -1,0 +1,360 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Xml.cs" caret="2388" fromTop="14" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Form1.designer.cs" caret="3180" fromTop="20" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:app.config" caret="433" fromTop="9" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Program.cs" caret="444" fromTop="17" />
+      <File id="F94B51FB-5DCF-476D-8C75-0914A5CF8257/f:Form1.cs" caret="905" fromTop="17" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatDB.designer.cs" caret="7489" fromTop="21" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:IChatServer.cs" caret="4661" fromTop="16" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="158" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="10792" fromTop="12" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="9710" fromTop="13" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="9036" fromTop="9" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="10330" fromTop="18" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="10960" fromTop="20" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="11277" fromTop="26" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="11653" fromTop="7" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="12110" fromTop="17" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="11747" fromTop="9" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="5860" fromTop="11" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="7093" fromTop="17" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="8539" fromTop="23" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:IChatServer.cs" caret="3167" fromTop="17" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="10060" fromTop="19" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="9735" fromTop="12" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="2881" fromTop="16" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="3005" fromTop="20" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="4943" fromTop="18" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:IChatServer.cs" caret="568" fromTop="14" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:IChatServer.cs" caret="777" fromTop="24" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:IChatServer.cs" caret="4447" fromTop="15" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="418" fromTop="10" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:IChatServer.cs" caret="4661" fromTop="16" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="1432" fromTop="4" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="8255" fromTop="12" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="7679" fromTop="21" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="8798" fromTop="16" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="4749" fromTop="18" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="5680" fromTop="24" />
+      <File id="ECFAB0C3-8C2D-43E8-A10C-D212865760CC/f:ChatServer.cs" caret="5394" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="txLocation" priority="3" />
+      <Item value="txtServiceContract1" priority="1" />
+      <Item value="txtServiceContract2" priority="0" />
+      <Item value="if" priority="14" />
+      <Item value="cbBinding" priority="3" />
+      <Item value="string" priority="50" />
+      <Item value="else" priority="9" />
+      <Item value="Message`0" priority="0" />
+      <Item value="MessageBox`0" priority="4" />
+      <Item value="cbServiceContract1" priority="1" />
+      <Item value="xmlDocument" priority="0" />
+      <Item value="XmlSerializerFormatAttribute`0" priority="0" />
+      <Item value="using" priority="1" />
+      <Item value="Hosting" priority="1" />
+      <Item value="Xml`0" priority="0" />
+      <Item value="xml" priority="4" />
+      <Item value="new" priority="35" />
+      <Item value="Xml" priority="0" />
+      <Item value="XmlDocument" priority="0" />
+      <Item value="doc" priority="3" />
+      <Item value="nameservice" priority="2" />
+      <Item value="cbServiceContract2" priority="1" />
+      <Item value="name" priority="1" />
+      <Item value="contractType" priority="4" />
+      <Item value="instanceType" priority="0" />
+      <Item value="baseAddress" priority="0" />
+      <Item value="host" priority="5" />
+      <Item value="ServiceEndpoint`0" priority="2" />
+      <Item value="ServiceEndpoint" priority="1" />
+      <Item value="BindingNavigator`0" priority="0" />
+      <Item value="BasicHttpBinding`0" priority="2" />
+      <Item value="Option" priority="1" />
+      <Item value="OptionEndpoint2" priority="1" />
+      <Item value="HttpClientCredentialType`0" priority="0" />
+      <Item value="ContractDescription`0" priority="0" />
+      <Item value="ContractDescription" priority="0" />
+      <Item value="typeof" priority="1" />
+      <Item value="IOption`0" priority="1" />
+      <Item value="endpoint" priority="2" />
+      <Item value="svcEndpoint" priority="0" />
+      <Item value="NetTcpBinding`0" priority="2" />
+      <Item value="None" priority="0" />
+      <Item value="BasicHttpBinding" priority="0" />
+      <Item value="bsbd" priority="1" />
+      <Item value="bsbd2" priority="0" />
+      <Item value="WSDualHttpBinding`0" priority="2" />
+      <Item value="OptionContract" priority="1" />
+      <Item value="IChat`0" priority="1" />
+      <Item value="ChatServer`0" priority="0" />
+      <Item value="OperatingSystem`0" priority="1" />
+      <Item value="Username" priority="6" />
+      <Item value="OperationContract" priority="7" />
+      <Item value="void" priority="20" />
+      <Item value="ChatMessage`0" priority="2" />
+      <Item value="public" priority="10" />
+      <Item value="ClientCallBacks" priority="19" />
+      <Item value="To" priority="1" />
+      <Item value="CM" priority="0" />
+      <Item value="txbaseaddress" priority="0" />
+      <Item value="lock" priority="11" />
+      <Item value="username" priority="8" />
+      <Item value="useronline" priority="1" />
+      <Item value="CurrentCallback" priority="0" />
+      <Item value="DB" priority="6" />
+      <Item value="ChatDBDataContext`0" priority="3" />
+      <Item value="dbDataContext" priority="2" />
+      <Item value="context" priority="3" />
+      <Item value="ChatDBDataContext" priority="3" />
+      <Item value="int" priority="7" />
+      <Item value="dem" priority="0" />
+      <Item value="Users" priority="7" />
+      <Item value="null" priority="2" />
+      <Item value="return" priority="15" />
+      <Item value="List" priority="0" />
+      <Item value="user`0" priority="18" />
+      <Item value="list" priority="0" />
+      <Item value="listonline" priority="1" />
+      <Item value="throw" priority="5" />
+      <Item value="Exception" priority="3" />
+      <Item value="IncludeExceptionDetailInFaults" priority="0" />
+      <Item value="DataMember" priority="3" />
+      <Item value="_name" priority="2" />
+      <Item value="value" priority="2" />
+      <Item value="FaultException" priority="2" />
+      <Item value="TrackedFault`0" priority="3" />
+      <Item value="var" priority="0" />
+      <Item value="from" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="WeakReference`0" priority="0" />
+      <Item value="where" priority="0" />
+      <Item value="u" priority="1" />
+      <Item value="select" priority="0" />
+      <Item value="foreach" priority="1" />
+      <Item value="existuser" priority="0" />
+      <Item value="existusers" priority="18" />
+      <Item value="exist" priority="1" />
+      <Item value="trackedFault" priority="2" />
+      <Item value="TrackedFault" priority="1" />
+      <Item value="Guid`0" priority="0" />
+      <Item value="DataContractAttribute`0" priority="1" />
+      <Item value="DateTime`0" priority="2" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="FaultCode`0" priority="0" />
+      <Item value="FaultCode" priority="0" />
+      <Item value="DataContract" priority="1" />
+      <Item value="class" priority="1" />
+      <Item value="user" priority="9" />
+      <Item value="try" priority="0" />
+      <Item value="OperationContract`0" priority="8" />
+      <Item value="IsOneWay" priority="12" />
+      <Item value="true" priority="4" />
+      <Item value="Friend" priority="2" />
+      <Item value="private" priority="5" />
+      <Item value="MessageAddFriend`0" priority="0" />
+      <Item value="message" priority="2" />
+      <Item value="Tousername" priority="0" />
+      <Item value="ConcurrencyMode`0" priority="9" />
+      <Item value="ServiceContract" priority="0" />
+      <Item value="CallbackContract" priority="0" />
+      <Item value="SessionMode" priority="0" />
+      <Item value="SessionMode`0" priority="0" />
+      <Item value="CallbackBehavior" priority="2" />
+      <Item value="ConcurrencyMode" priority="2" />
+      <Item value="UseSynchronizationContext" priority="0" />
+      <Item value="false" priority="1" />
+      <Item value="NetMsmqBinding`0" priority="1" />
+      <Item value="sender" priority="1" />
+      <Item value="fileName" priority="1" />
+      <Item value="byte" priority="7" />
+      <Item value="data" priority="1" />
+      <Item value="Time" priority="0" />
+      <Item value="time" priority="1" />
+      <Item value="FileMessage`0" priority="1" />
+      <Item value="fileMessage" priority="5" />
+      <Item value="receiver" priority="2" />
+      <Item value="ChatMessage" priority="0" />
+      <Item value="cm" priority="1" />
+      <Item value="_sender" priority="1" />
+      <Item value="MaxReceivedMessageSize" priority="0" />
+      <Item value="MaxBufferPoolSize" priority="0" />
+      <Item value="MessageEncoding" priority="0" />
+      <Item value="ReaderQuotas" priority="1" />
+      <Item value="WSDualHttpBinding" priority="0" />
+      <Item value="ws" priority="5" />
+      <Item value="DataGridViewCellContextMenuStripNeededEventArgs`0" priority="0" />
+      <Item value="NetTcpBinding" priority="0" />
+      <Item value="net" priority="0" />
+      <Item value="SecurityMode`0" priority="0" />
+      <Item value="messageContent" priority="0" />
+      <Item value="avarta" priority="4" />
+      <Item value="BadImageFormatException`0" priority="1" />
+      <Item value="System" priority="0" />
+      <Item value="IO" priority="0" />
+      <Item value="Bitmap`0" priority="2" />
+      <Item value="BinaryReader`0" priority="0" />
+      <Item value="Binary`0" priority="12" />
+      <Item value="Binary" priority="0" />
+      <Item value="User`0" priority="9" />
+      <Item value="User" priority="2" />
+      <Item value="newUser" priority="4" />
+      <Item value="newuser" priority="10" />
+      <Item value="chatdb" priority="0" />
+      <Item value="dataContext" priority="1" />
+      <Item value="GetUserByUsername`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="Text" priority="3" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Text" priority="0" />
+      <Item value="Checked" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Hosting.Xml">
+      <Item value="CreateXmlService`0" priority="0" />
+      <Item value="AddService`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlDocument">
+      <Item value="Save`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlAttribute">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.ServiceHost">
+      <Item value="AddServiceEndpoint`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.Description.ServiceEndpoint">
+      <Item value="Name" priority="1" />
+      <Item value="Address" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.BasicHttpBinding">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="ContainsKey`0" priority="2" />
+      <Item value="Remove`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OptionContract.IChatCallBack">
+      <Item value="NewMessage`0" priority="0" />
+      <Item value="NewPublicMessage`0" priority="0" />
+      <Item value="NewPrivateMessage`0" priority="0" />
+      <Item value="UserLoggedin`0" priority="0" />
+      <Item value="AddListOnline`0" priority="0" />
+      <Item value="SendMessageAddFriend`0" priority="1" />
+      <Item value="AddFriendMessageResult`0" priority="0" />
+      <Item value="ReceiverFile`0" priority="0" />
+      <Item value="ReceiveMessage`0" priority="0" />
+      <Item value="ReceiveInformationUser`0" priority="0" />
+      <Item value="ReceiveInformation`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="Distinct`1" priority="2" />
+      <Item value="FirstOrDefault`1" priority="7" />
+      <Item value="Count`1" priority="0" />
+      <Item value="Single`1" priority="2" />
+      <Item value="First`1" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OptionContract.ChatDBDataContext">
+      <Item value="users" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OptionContract.user">
+      <Item value="username" priority="5" />
+      <Item value="userid" priority="2" />
+      <Item value="password" priority="2" />
+      <Item value="avarta" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="NewGuid`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ServiceModel.FaultCode">
+      <Item value="CreateReceiverFaultCode`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OptionContract.User">
+      <Item value="username" priority="7" />
+      <Item value="userid" priority="2" />
+      <Item value="password" priority="2" />
+      <Item value="avarta" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ServiceModel.ConcurrencyMode">
+      <Item value="Multiple" priority="4" />
+      <Item value="Reentrant" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ServiceModel.SessionMode">
+      <Item value="Required" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ServiceModel.InstanceContextMode">
+      <Item value="PerSession" priority="0" />
+      <Item value="PerCall" priority="0" />
+      <Item value="Single" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OptionContract.ChatMessage">
+      <Item value="Sender" priority="0" />
+      <Item value="Content" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:OptionContract.FileMessage">
+      <Item value="Sender" priority="1" />
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="MaxValue" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceModel.WSDualHttpBinding">
+      <Item value="MaxBufferPoolSize" priority="0" />
+      <Item value="MaxReceivedMessageSize" priority="0" />
+      <Item value="ReaderQuotas" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlDictionaryReaderQuotas">
+      <Item value="MaxArrayLength" priority="0" />
+      <Item value="MaxBytesPerRead" priority="0" />
+      <Item value="MaxStringContentLength" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ServiceModel.SecurityMode">
+      <Item value="None" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
